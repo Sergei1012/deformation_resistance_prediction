@@ -1,1 +1,1 @@
-# deformation_resistance_prediction
+# Определение сопротивления деформации 
